@@ -24,7 +24,7 @@ function App() {
   async function reviewCode() {
     try {
       setIsLoading(true);
-      const response = await axios.post("http://localhost:3000/ai/get-review", {
+      const response = await axios.post("https://code-reviewer-f38q.onrender.com", {
         code,
       });
       setReview(response.data);
