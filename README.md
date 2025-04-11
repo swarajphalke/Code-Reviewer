@@ -3,7 +3,7 @@ Code Reviewer is a web-based tool that analyzes and reviews source code. It dete
 
 ---
 
-🚀 Features
+🚀 Features <br>
 ✅ Code syntax error detection
 
 ✨ Smart code suggestions and improvements
