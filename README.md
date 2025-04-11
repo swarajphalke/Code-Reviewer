@@ -1,31 +1,28 @@
-🧠 Code Reviewer
+🧠 Code Reviewer <br>
 Code Reviewer is a web-based tool that analyzes and reviews source code. It detects errors and provides suggestions for improving code quality, helping developers write better and cleaner code.
 
 ---
 
 🚀 Features <br>
+
 ✅ Code syntax error detection
-
 ✨ Smart code suggestions and improvements
-
 🖥️ Beautiful and responsive UI
-
 ⚙️ Backend powered by Node.js and Express
-
 💡 Built using React, HTML, CSS, and JavaScript
 
 ---
 
-🧩 Tech Stack
-Frontend: React, HTML, CSS, JavaScript
+🧩 Tech Stack  <br> <br>
+Frontend: React, HTML, CSS, JavaScript  <br>
 Backend: Node.js, Express.js
 
 ---
 
-📦 Installation
-Clone the Repository
-git clone https://github.com/swarajphalke/code-reviewer.git
-cd code-reviewer
+📦 Installation <br> <br>
+Clone the Repository <br>
+git clone https://github.com/swarajphalke/code-reviewer.git <br>
+cd code-reviewer <br>
 
 Install Dependencies ->
 
