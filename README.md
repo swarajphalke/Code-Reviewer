@@ -1,69 +1,73 @@
 🧠 Code Reviewer <br>
+
 Code Reviewer is a web-based tool that analyzes and reviews source code. It detects errors and provides suggestions for improving code quality, helping developers write better and cleaner code.
 
 ---
 
 🚀 Features <br>
 
-✅ Code syntax error detection
-✨ Smart code suggestions and improvements
-🖥️ Beautiful and responsive UI
-⚙️ Backend powered by Node.js and Express
-💡 Built using React, HTML, CSS, and JavaScript
+✅ Code syntax error detection  <br>
+✨ Smart code suggestions and improvements <br>
+🖥️ Beautiful and responsive UI <br>
+⚙️ Backend powered by Node.js and Express <br>
+💡 Built using React, HTML, CSS, and JavaScript <br>
 
 ---
 
-🧩 Tech Stack  <br> <br>
+🧩 Tech Stack  <br>
+
 Frontend: React, HTML, CSS, JavaScript  <br>
 Backend: Node.js, Express.js
 
 ---
 
-📦 Installation <br> <br>
+📦 Installation <br> 
+
 Clone the Repository <br>
 git clone https://github.com/swarajphalke/code-reviewer.git <br>
 cd code-reviewer <br>
 
-Install Dependencies ->
+Install Dependencies ->  <br>
 
-Backend
-cd backend
-npm install
+Backend <br>
+cd backend <br>
+npm install <br>
 
-Frontend
-cd ../frontend
-npm install
+Frontend <br>
+cd ../frontend <br>
+npm install <br>
 
-Run the Application ->
+Run the Application -> <br>
 
-Start Backend
-cd backend
-npx nodemon
+Start Backend <br>
+cd backend <br>
+npx nodemon <br>
 
-Start Frontend
-cd ../frontend
-npm run dev
-
----
-
-📁 Folder Structure
-Code-Reviewer/
-├── backend/ → Node.js + Express server
-├── frontend/ → React-based client side
-└── README.md → Project documentation
+Start Frontend <br>
+cd ../frontend <br>
+npm run dev <br>
 
 ---
 
-📌 Future Improvements
-Add AI-based code review (e.g. LLM integration)
+📁 Folder Structure <br>
 
-Language support for multiple programming languages
-
-Save review history and download reports
+Code-Reviewer/ <br>
+├── backend/ → Node.js + Express server <br>
+├── frontend/ → React-based client side <br>
+└── README.md → Project documentation <br>
 
 ---
 
-🤝 Contributing
+📌 Future Improvements <br>
+
+Add AI-based code review (e.g. LLM integration) <br>
+Language support for multiple programming languages  <br>
+Save review history and download reports <br>
+
+---
+
+🤝 Contributing <br>
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
