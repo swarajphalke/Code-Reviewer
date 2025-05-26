@@ -61,27 +61,36 @@ Code-Reviewer/
 
 ### 🚀 Installation
 
-#### Backend
-cd BackEnd
-npm install
-npm run start # or node server.js
+#### 1. Backend
+     ```bash
+   -cd BackEnd
+   -npm install
+   -npm run start # or node server.js
 
-#### Frontend
-cd Frontend
-npm install
-npm run dev
+#### 2. Frontend
+     ```bash
+     cd Frontend
+     npm install
+     npm run dev
+
+---
+
+## 📌 How to Use
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/swarajphalke/SQL-Mastery.git
 
 ---
 
 ## 📌 Features
 
-✍️ Submit code snippets
+-✍️ Submit code snippets
 
-📝 Get code reviews or feedback
+-📝 Get code reviews or feedback
 
-📤 Full stack MERN-style integration
+-📤 Full stack MERN-style integration
 
-⚡ Fast development setup using Vite + React
+-⚡ Fast development setup using Vite + React
 
 ---
 
