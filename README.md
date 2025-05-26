@@ -28,34 +28,7 @@
 
 ## 📁 Folder Structure
 
-Code-Reviewer/
-│
-├── BackEnd/
-│ ├── controllers/
-│ ├── routes/
-│ ├── services/
-│ ├── node_modules/
-│ ├── .env
-│ ├── app.js
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
-│
-├── Frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │ ├── App.css
-│ │ └── index.css
-│ ├── index.html
-│ ├── package.json
-│ ├── vite.config.js
-│ ├── eslint.config.js
-│ └── .gitignore
-│
-└── README.md
+<pre> ```txt Code-Reviewer/ ├── BackEnd/ │ ├── controllers/ │ ├── routes/ │ ├── services/ │ ├── node_modules/ │ ├── .env │ ├── app.js │ ├── server.js │ ├── package.json │ └── package-lock.json ├── Frontend/ │ ├── public/ │ ├── src/ │ │ ├── assets/ │ │ ├── App.jsx │ │ ├── main.jsx │ │ ├── App.css │ │ └── index.css │ ├── index.html │ ├── package.json │ ├── vite.config.js │ ├── eslint.config.js │ ├── .gitignore │ └── README.md ``` </pre>
 
 ---
 
