@@ -59,6 +59,15 @@ Code-Reviewer/
 
 ---
 
+## 📌 Features
+
+- ✍️ Submit code snippets
+- 📝 Get code reviews or feedback
+- 📤 Full stack MERN-style integration
+- ⚡ Fast development setup using Vite + React
+
+---
+
 ### 🚀 Installation
 
 #### 1. Backend
@@ -79,18 +88,6 @@ npm run dev
 1. Clone the repo:  
    ```bash
    git clone https://github.com/swarajphalke/SQL-Mastery.git
-
----
-
-## 📌 Features
-
-✍️ Submit code snippets
-
-📝 Get code reviews or feedback
-
-📤 Full stack MERN-style integration
-
-⚡ Fast development setup using Vite + React
 
 ---
 
