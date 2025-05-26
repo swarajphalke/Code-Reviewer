@@ -28,7 +28,7 @@
 
 ## 📁 Folder Structure
 
- Frontend/
+ Frontend/ <br>
 ├── public/
 ├── src/
 │   ├── assets/
