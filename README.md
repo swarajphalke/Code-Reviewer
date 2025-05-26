@@ -28,34 +28,34 @@
 
 ## 📁 Folder Structure
 
- Frontend/ <br>
-├── public/
-├── src/
-│   ├── assets/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│   └── App.css
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-└── vite.config.js
+Frontend/ <br>
+├── public/ <br>
+├── src/ <br>
+│   ├── assets/ <br>
+│   ├── App.jsx <br>
+│   ├── main.jsx <br>
+│   ├── index.css <br>
+│   └── App.css <br>
+├── eslint.config.js <br>
+├── index.html <br>
+├── package.json <br>
+├── package-lock.json <br>
+└── vite.config.js <br>
 
-BackEnd/
-├── node_modules/
-├── src/
-│   ├── controllers/
-│   │   └── ai.controller.js
-│   ├── routes/
-│   │   └── ai.routes.js
-│   └── services/
-│       └── ai.service.js
-├── app.js
-├── .env
-├── package.json
-├── package-lock.json
-└── server.js
+BackEnd/ <br>
+├── node_modules/ <br>
+├── src/ <br>
+│   ├── controllers/ <br>
+│   │   └── ai.controller.js <br>
+│   ├── routes/ <br>
+│   │   └── ai.routes.js <br>
+│   └── services/ <br>
+│       └── ai.service.js <br>
+├── app.js <br>
+├── .env <br>
+├── package.json <br>
+├── package-lock.json <br>
+└── server.js <br>
 
 ---
 
