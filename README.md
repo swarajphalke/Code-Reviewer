@@ -62,10 +62,10 @@ Code-Reviewer/
 ### 🚀 Installation
 
 #### 1. Backend
-    ```bash
-   cd BackEnd
-   npm install
-   npm run start # or node server.js
+```bash
+cd BackEnd
+npm install
+npm run start   # or use: node server.js
 
 #### 2. Frontend
      ```bash
