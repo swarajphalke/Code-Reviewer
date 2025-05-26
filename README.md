@@ -62,10 +62,10 @@ Code-Reviewer/
 ### 🚀 Installation
 
 #### 1. Backend
-     ```bash
-   -cd BackEnd
-   -npm install
-   -npm run start # or node server.js
+    ```bash
+   cd BackEnd
+   npm install
+   npm run start # or node server.js
 
 #### 2. Frontend
      ```bash
@@ -84,13 +84,13 @@ Code-Reviewer/
 
 ## 📌 Features
 
--✍️ Submit code snippets
+✍️ Submit code snippets
 
--📝 Get code reviews or feedback
+📝 Get code reviews or feedback
 
--📤 Full stack MERN-style integration
+📤 Full stack MERN-style integration
 
--⚡ Fast development setup using Vite + React
+⚡ Fast development setup using Vite + React
 
 ---
 
