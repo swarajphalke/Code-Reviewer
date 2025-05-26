@@ -66,12 +66,14 @@ Code-Reviewer/
 cd BackEnd
 npm install
 npm run start   # or use: node server.js
+```
+---
 
 #### 2. Frontend
-     ```bash
-     cd Frontend
-     npm install
-     npm run dev
+```bash
+cd Frontend
+npm install
+npm run dev
 
 ---
 
