@@ -1,79 +1,90 @@
-🧠 Code Reviewer <br>
+# 🛠️ Code Reviewer
 
-Code Reviewer is a web-based tool that analyzes and reviews source code. It detects errors and provides suggestions for improving code quality, helping developers write better and cleaner code.
-
----
-
-🚀 Features <br>
-
-✅ Code syntax error detection  <br>
-✨ Smart code suggestions and improvements <br>
-🖥️ Beautiful and responsive UI <br>
-⚙️ Backend powered by Node.js and Express <br>
-💡 Built using React, HTML, CSS, and JavaScript <br>
+**Code Reviewer** is a full-stack web application that allows users to submit code snippets for review and receive feedback. It aims to assist developers in improving code quality through automated analysis or community-driven suggestions.
 
 ---
 
-🧩 Tech Stack  <br>
+## 🛠 Tech Stack
 
-Frontend: React, HTML, CSS, JavaScript  <br>
-Backend: Node.js, Express.js
+### 🚀 Frontend
+- **Framework**: React (with Vite)
+- **Languages**: JavaScript, HTML, CSS
+- **Styling**: App.css, index.css
+- **Build Tool**: Vite
+- **Dependencies**: Managed via `package.json`
 
----
-
-📦 Installation <br> 
-
-Clone the Repository <br>
-git clone https://github.com/swarajphalke/code-reviewer.git <br>
-cd code-reviewer <br>
-
-Install Dependencies ->  <br>
-
-Backend <br>
-cd backend <br>
-npm install <br>
-
-Frontend <br>
-cd ../frontend <br>
-npm install <br>
-
-Run the Application -> <br>
-
-Start Backend <br>
-cd backend <br>
-npx nodemon <br>
-
-Start Frontend <br>
-cd ../frontend <br>
-npm run dev <br>
+### 🌐 Backend
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Folder Structure**:
+  - `controllers/` - Handles business logic
+  - `routes/` - API endpoint routing
+  - `services/` - Service layer for reusable logic
+- **Configuration**: `.env` for environment variables
+- **Entry Point**: `server.js`
+- **App Logic**: `app.js`
 
 ---
 
-📁 Folder Structure <br>
+## 📁 Folder Structure
 
-Code-Reviewer/ <br>
-├── backend/ → Node.js + Express server <br>
-├── frontend/ → React-based client side <br>
-└── README.md → Project documentation <br>
+Code-Reviewer/
+│
+├── BackEnd/
+│ ├── controllers/
+│ ├── routes/
+│ ├── services/
+│ ├── node_modules/
+│ ├── .env
+│ ├── app.js
+│ ├── server.js
+│ ├── package.json
+│ └── package-lock.json
+│
+├── Frontend/
+│ ├── public/
+│ ├── src/
+│ │ ├── assets/
+│ │ ├── App.jsx
+│ │ ├── main.jsx
+│ │ ├── App.css
+│ │ └── index.css
+│ ├── index.html
+│ ├── package.json
+│ ├── vite.config.js
+│ ├── eslint.config.js
+│ └── .gitignore
+│
+└── README.md
 
 ---
 
-📌 Future Improvements <br>
+### 🚀 Installation
 
-Add AI-based code review (e.g. LLM integration) <br>
-Language support for multiple programming languages  <br>
-Save review history and download reports <br>
+#### Backend
+cd BackEnd
+npm install
+npm run start # or node server.js
+
+#### Frontend
+cd Frontend
+npm install
+npm run dev
 
 ---
 
-🤝 Contributing <br>
+## 📌 Features
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+✍️ Submit code snippets
+
+📝 Get code reviews or feedback
+
+📤 Full stack MERN-style integration
+
+⚡ Fast development setup using Vite + React
 
 ---
 
-🙌 Acknowledgments
-Thanks to all open-source libraries and tools that made this project possible! 
-
-
+## 🤝 Let's Connect
+If you find this repository useful or inspiring, feel free to ⭐️ the repo and connect with me on https://www.linkedin.com/in/swaraj-phalke-b5539b220/.
 
