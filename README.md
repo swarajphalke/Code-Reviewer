@@ -28,7 +28,39 @@
 
 ## 📁 Folder Structure
 
-<pre> 📦 Code-Reviewer ┣ 📂 BackEnd ┃ ┣ 📂 controllers ┃ ┣ 📂 routes ┃ ┣ 📂 services ┃ ┣ 📂 node_modules ┃ ┣ 📄 .env ┃ ┣ 📄 app.js ┃ ┣ 📄 server.js ┃ ┣ 📄 package.json ┃ ┗ 📄 package-lock.json ┣ 📂 Frontend ┃ ┣ 📂 public ┃ ┣ 📂 src ┃ ┃ ┣ 📂 assets ┃ ┃ ┣ 📄 App.jsx ┃ ┃ ┣ 📄 main.jsx ┃ ┃ ┣ 📄 App.css ┃ ┃ ┗ 📄 index.css ┃ ┣ 📄 index.html ┃ ┣ 📄 package.json ┃ ┣ 📄 vite.config.js ┃ ┣ 📄 eslint.config.js ┃ ┣ 📄 .gitignore ┃ ┗ 📄 README.md </pre>
+ 
+Or for better formatting with syntax highlighting (though not all markdown renderers support this):
+
+```markdown
+```text
+Frontend/
+    public/
+    src/
+    assets/
+    App.jsx
+    main.jsx
+    index.css
+    App.css
+    eslint.config.js
+    index.html
+    package.json
+    package-lock.json
+    vite.config.js
+
+BackEnd/
+    node_modules/
+    src/
+    controllers/
+        ai.controller.js
+    routes/
+        ai.routes.js
+    services/
+        ai.service.js
+    app.js
+    .env
+    package.json
+    package-lock.json
+    server.js
 
 ---
 
