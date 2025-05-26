@@ -1,4 +1,4 @@
-# 🛠️ Code Reviewer
+# 🔥 Code Reviewer
 
 **Code Reviewer** is a full-stack web application that allows users to submit code snippets for review and receive feedback. It aims to assist developers in improving code quality through automated analysis or community-driven suggestions.
 
@@ -68,6 +68,13 @@ BackEnd/ <br>
 
 ---
 
+## 📌 How to Use
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/swarajphalke/SQL-Mastery.git
+
+---
+
 ### 🚀 Installation
 
 #### 1. Backend
@@ -82,13 +89,6 @@ cd Frontend
 npm install
 npm run dev
 ```
----
-
-## 📌 How to Use
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/swarajphalke/SQL-Mastery.git
-
 ---
 
 ## 🤝 Let's Connect
