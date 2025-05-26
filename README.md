@@ -28,39 +28,34 @@
 
 ## 📁 Folder Structure
 
- 
-Or for better formatting with syntax highlighting (though not all markdown renderers support this):
-
-```markdown
-```text
-Frontend/
-    public/
-    src/
-    assets/
-    App.jsx
-    main.jsx
-    index.css
-    App.css
-    eslint.config.js
-    index.html
-    package.json
-    package-lock.json
-    vite.config.js
+ Frontend/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   └── App.css
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
 
 BackEnd/
-    node_modules/
-    src/
-    controllers/
-        ai.controller.js
-    routes/
-        ai.routes.js
-    services/
-        ai.service.js
-    app.js
-    .env
-    package.json
-    package-lock.json
-    server.js
+├── node_modules/
+├── src/
+│   ├── controllers/
+│   │   └── ai.controller.js
+│   ├── routes/
+│   │   └── ai.routes.js
+│   └── services/
+│       └── ai.service.js
+├── app.js
+├── .env
+├── package.json
+├── package-lock.json
+└── server.js
 
 ---
 
